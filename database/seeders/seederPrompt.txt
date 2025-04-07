@@ -1,0 +1,11 @@
+  php artisan db:seed --class=CustomersSeeder
+   php artisan db:seed --class=SuppliersSeeder
+   php artisan db:seed --class=PurchaseTransactionsSeeder
+   php artisan db:seed --class=SalesTransactionsSeeder
+   php artisan db:seed --class=ItemCategoriesSeeder
+   php artisan db:seed --class=ItemsSeeder
+   php artisan db:seed --class=IncomingItemsSeeder
+   php artisan db:seed --class=ItemRequestsSeeder
+    php artisan db:seed --class=OutgoingItemsSeeder
+    php artisan db:seed --class=PurchaseTransactionDetailsSeeder
+  php artisan db:seed --class=SalesTransactionDetailsSeeder

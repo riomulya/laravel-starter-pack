@@ -1,0 +1,15 @@
+## admin
+admin@example.com
+admin
+
+## manager
+manager@example.com
+manager
+
+## staff
+staff@example.com
+staff
+
+## user
+user@example.com
+user
